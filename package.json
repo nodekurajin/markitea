@@ -19,5 +19,13 @@
     "rejekiteteh": "^1.0.6",
     "sawahkatayan": "^1.0.3"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodekurajin/markitea.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodekurajin/markitea/issues"
+  },
+  "homepage": "https://github.com/nodekurajin/markitea#readme"
 }
