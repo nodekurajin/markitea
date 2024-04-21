@@ -1,6 +1,6 @@
 {
   "name": "markitea",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "project abal-abal tea.",
   "main": "index.js",
   "scripts": {
@@ -10,12 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@alvanero/tehpochi01": "^1.1.4",
-    "@nodekurajin/jatimulyoteteh": "^1.1.6",
-    "aingtea": "^1.0.6",
-    "anakketiga": "^1.0.1",
-    "anaklanangtea": "^1.0.1",
-    "anakwadontea": "^1.0.1",
-    "gerimismalamsenin": "^1.0.2",
     "@nodekurajin/jatimulyoteteh": "^1.1.6",
     "aingtea": "^1.0.6",
     "anakketiga": "^1.0.1",
